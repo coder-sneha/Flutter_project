@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "158614979234",
+    "project_id": "pokemon-e760c",
+    "storage_bucket": "pokemon-e760c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158614979234:android:13f49492d564796c30cdfb",
+        "android_client_info": {
+          "package_name": "com.example.pokemon_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158614979234-aqkvlo5u3j2agq412f8bgt5l1frs6n7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJFiwnDYP9Q7gz1U8kA37zGD6zHAEE9WY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158614979234-aqkvlo5u3j2agq412f8bgt5l1frs6n7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
